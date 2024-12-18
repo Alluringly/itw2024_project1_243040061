@@ -654,12 +654,14 @@ span {
     text-align: left;
   }
   .timeline-item:nth-child(odd),
-  .timeline-iten:nth-child(even) {
+  .timeline-item:nth-child(even) {
     padding-left: 37px;
   }
+
   .timeline-dot {
     left: 0;
   }
+
   .services {
     padding-bottom: 7rem;
   }
@@ -709,6 +711,7 @@ span {
     flex-direction: column-reverse;
     margin: 5rem 4rem;
   }
+
   .home-content h3 {
     font-size: 2.6rem;
   }
